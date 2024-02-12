@@ -47,7 +47,7 @@
          offset="0"
          id="stop9190" />
       <stop
-         style="stop-color:#eceff4;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
          id="stop9192" />
     </linearGradient>
@@ -59,7 +59,7 @@
          offset="0"
          id="stop8842" />
       <stop
-         style="stop-color:#d8dee9;stop-opacity:1"
+         style="stop-color:#deddda;stop-opacity:1"
          offset="1"
          id="stop8844" />
     </linearGradient>
@@ -71,7 +71,7 @@
          offset="0"
          id="stop8718" />
       <stop
-         style="stop-color:#d8dee9;stop-opacity:1"
+         style="stop-color:#deddda;stop-opacity:1"
          offset="1"
          id="stop8720" />
     </linearGradient>
@@ -91,7 +91,7 @@
        inkscape:collect="always"
        id="linearGradient8287">
       <stop
-         style="stop-color:#ebcb8b;stop-opacity:1;"
+         style="stop-color:#f6d32d;stop-opacity:1;"
          offset="0"
          id="stop8283" />
       <stop
@@ -203,11 +203,11 @@
        gradientTransform="translate(-0.0076499,-0.0030174)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#bf616a"
+         stop-color="#e01b24"
          offset="0"
          id="stop942" />
       <stop
-         stop-color="#d08770"
+         stop-color="#ff7800"
          offset="1"
          id="stop944" />
     </linearGradient>
@@ -854,7 +854,7 @@
            height="2"
            width="3"
            id="rect1076"
-           style="opacity:1;fill:#88c0d0;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:32, 32;stroke-dashoffset:48;stroke-opacity:1" />
+           style="opacity:1;fill:#00b7eb;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:32, 32;stroke-dashoffset:48;stroke-opacity:1" />
       </g>
     </g>
     <rect

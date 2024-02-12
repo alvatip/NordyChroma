@@ -64,12 +64,12 @@
          offset="0"
          stop-color="#b1bded"
          id="stop7"
-         style="stop-color:#d8dee9;stop-opacity:1" />
+         style="stop-color:#deddda;stop-opacity:1" />
       <stop
          offset="1"
          stop-color="#fff"
          id="stop9"
-         style="stop-color:#eceff4;stop-opacity:1" />
+         style="stop-color:#ffffff;stop-opacity:1" />
     </linearGradient>
   </defs>
   <image

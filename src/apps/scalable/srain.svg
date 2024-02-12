@@ -13,22 +13,22 @@
     <linearGradient
        id="linearGradient1781">
       <stop
-         style="stop-color:#88c0d0;stop-opacity:1;"
+         style="stop-color:#00b7eb;stop-opacity:1;"
          offset="0"
          id="stop1777" />
       <stop
-         style="stop-color:#8fbcbb;stop-opacity:1;"
+         style="stop-color:#37c8ab;stop-opacity:1;"
          offset="1"
          id="stop1779" />
     </linearGradient>
     <linearGradient
        id="linearGradient1715">
       <stop
-         style="stop-color:#88c0d0;stop-opacity:1;"
+         style="stop-color:#00b7eb;stop-opacity:1;"
          offset="0"
          id="stop1711" />
       <stop
-         style="stop-color:#5e81ac;stop-opacity:1;"
+         style="stop-color:#1a5fb4;stop-opacity:1;"
          offset="1"
          id="stop1713" />
     </linearGradient>
@@ -51,15 +51,15 @@
        gradientTransform="matrix(-2.6959 -.0082963 .0068041 -2.211 17.317 12.892)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ebcb8b"
+         stop-color="#f6d32d"
          offset="0"
          id="stop5"
-         style="stop-color:#8fbcbb;stop-opacity:1;" />
+         style="stop-color:#37c8ab;stop-opacity:1;" />
       <stop
-         stop-color="#d08770"
+         stop-color="#ff7800"
          offset="1"
          id="stop7"
-         style="stop-color:#88c0d0;stop-opacity:1;" />
+         style="stop-color:#00b7eb;stop-opacity:1;" />
     </radialGradient>
     <filter
        id="filter1268"
@@ -91,11 +91,11 @@
        y2="14.234"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#2e3440"
+         stop-color="#000000"
          offset="0"
          id="stop16" />
       <stop
-         stop-color="#4c566a"
+         stop-color="#5e5c64"
          offset="1"
          id="stop18" />
     </linearGradient>
@@ -108,11 +108,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,-1,-1.0970583,16.369795)">
       <stop
-         stop-color="#d8dee9"
+         stop-color="#deddda"
          offset="0"
          id="stop21" />
       <stop
-         stop-color="#eceff4"
+         stop-color="#ffffff"
          offset="1"
          id="stop23" />
     </linearGradient>
@@ -171,7 +171,7 @@
        id="rect32" />
     <path
        d="m 8.4665433,2.9377848 a 5.7301,4.9287 0 0 0 -5.7303,4.9288 5.7301,4.9287 0 0 0 5.7303,4.9288002 5.7301,4.9287 0 0 0 1.7000997,-0.22479 l 1.3766,0.6568 1.6092,0.7679 -0.13952,-1.7771 -0.09818,-1.2495 a 5.7301,4.9287 0 0 0 1.2821,-3.1021002 5.7301,4.9287 0 0 0 -5.7302997,-4.9288 z"
-       fill="#2e3440"
+       fill="#000000"
        filter="url(#filter1274)"
        opacity="0.49798"
        stroke-width="0.69624"

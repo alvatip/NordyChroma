@@ -4,8 +4,8 @@
    <feGaussianBlur stdDeviation="0.30691955"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e3440" offset="0"/>
-   <stop stop-color="#4c566a" offset="1"/>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#5e5c64" offset="1"/>
   </linearGradient>
   <filter id="filter7168" x="-.095805" y="-.14809" width="1.1916" height="1.2965" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.28234752"/>
@@ -36,10 +36,10 @@
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
  <path d="m4.3962 10.677v3.0416l8.2259-2.66v-2.9275z" fill="url(#linearGradient22061)" stroke="url(#linearGradient22061)" stroke-width=".22089"/>
- <path d="m12.453 8.1548v3.0416l-8.2259-2.66v-2.9275z" fill="#2e3440" filter="url(#filter7228)" opacity=".39687" stroke="#2e3440" stroke-width=".22089"/>
+ <path d="m12.453 8.1548v3.0416l-8.2259-2.66v-2.9275z" fill="#000000" filter="url(#filter7228)" opacity=".39687" stroke="#000000" stroke-width=".22089"/>
  <g stroke-width=".22089">
   <path d="m12.622 7.9671v3.0416l-8.2259-2.66v-2.9275z" fill="url(#linearGradient7954)" stroke="url(#linearGradient8026)"/>
-  <path d="m4.5651 5.3635v3.0416l8.2259-2.66v-2.9275z" fill="#2e3440" filter="url(#filter7168)" opacity=".45723" stroke="#2e3440"/>
+  <path d="m4.5651 5.3635v3.0416l8.2259-2.66v-2.9275z" fill="#000000" filter="url(#filter7168)" opacity=".45723" stroke="#000000"/>
   <path d="m4.3962 5.2321v3.0416l8.2259-2.66v-2.9275z" fill="url(#linearGradient7298)" stroke="url(#linearGradient7298)"/>
  </g>
 </svg>

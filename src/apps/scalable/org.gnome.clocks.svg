@@ -4,12 +4,12 @@
    <feGaussianBlur stdDeviation="0.30691955"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e3440" offset="0"/>
-   <stop stop-color="#4c566a" offset="1"/>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#5e5c64" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2312" x1="1.0051" x2="2.3962" y1="-8.4436" y2="-15.123" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#d8dee9" stop-opacity="0" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#deddda" stop-opacity="0" offset="1"/>
   </linearGradient>
   <filter id="filter2917" x="-.087411" y="-.065675" width="1.1748" height="1.1314" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.2871969"/>
@@ -20,8 +20,8 @@
   <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
- <g fill="#2e3440" filter="url(#filter2917)">
-  <g transform="translate(.074159 .19776)" fill="#2e3440" opacity=".5">
+ <g fill="#000000" filter="url(#filter2917)">
+  <g transform="translate(.074159 .19776)" fill="#000000" opacity=".5">
    <rect transform="matrix(.8445 .53556 -.3664 .93046 0 0)" x="10.853" y="3.0156" width=".61879" height="6.187" ry=".35636" opacity="1"/>
    <rect transform="matrix(-.75801 .65224 -.78075 -.62484 0 0)" x="1.0051" y="-11.995" width=".71664" height="3.5517" ry=".35832" opacity="1"/>
    <rect transform="matrix(.51723 .85584 -.74274 .66958 0 0)" x="11.931" y="-9.3679" width=".61879" height="6.187" ry=".35636" opacity="1"/>
@@ -30,13 +30,13 @@
    <ellipse cx="8.4665" cy="8.4665" rx=".47378" ry=".51634"/>
   </g>
  </g>
- <rect transform="matrix(.8445 .53556 -.3664 .93046 0 0)" x="10.853" y="3.0156" width=".61879" height="6.187" ry=".35636" fill="#bf616a"/>
+ <rect transform="matrix(.8445 .53556 -.3664 .93046 0 0)" x="10.853" y="3.0156" width=".61879" height="6.187" ry=".35636" fill="#e01b24"/>
  <rect transform="matrix(-.75801 .65224 -.78075 -.62484 0 0)" x="1.0051" y="-11.995" width=".71664" height="3.5517" ry=".35832" fill="url(#linearGradient2312)"/>
- <rect transform="matrix(.51723 .85584 -.74274 .66958 0 0)" x="11.931" y="-9.3679" width=".61879" height="6.187" ry=".35636" fill="#d8dee9"/>
- <ellipse cx="8.4665" cy="8.4665" rx=".9669" ry="1.0537" fill="#2e3440"/>
- <ellipse cx="8.4665" cy="8.4665" rx=".9669" ry="1.0537" fill="#d8dee9" opacity=".6"/>
- <ellipse cx="8.4665" cy="8.4665" rx=".47378" ry=".51634" fill="#2e3440"/>
- <g fill="#d8dee9">
+ <rect transform="matrix(.51723 .85584 -.74274 .66958 0 0)" x="11.931" y="-9.3679" width=".61879" height="6.187" ry=".35636" fill="#deddda"/>
+ <ellipse cx="8.4665" cy="8.4665" rx=".9669" ry="1.0537" fill="#000000"/>
+ <ellipse cx="8.4665" cy="8.4665" rx=".9669" ry="1.0537" fill="#deddda" opacity=".6"/>
+ <ellipse cx="8.4665" cy="8.4665" rx=".47378" ry=".51634" fill="#000000"/>
+ <g fill="#deddda">
   <rect x="12.474" y="8.1945" width="1.9343" height=".5441" ry=".23509"/>
   <rect x="2.5063" y="8.1945" width="1.9343" height=".5441" ry=".23509"/>
   <rect transform="rotate(90)" x="2.5978" y="-8.7386" width="1.9343" height=".5441" ry=".23509"/>

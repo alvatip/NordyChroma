@@ -1,8 +1,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="linearGradient8955" x1="8.4771" x2="8.4784" y1="12.539" y2="4.3762" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#88c0d0" offset="1"/>
+   <stop stop-color="#1a5fb4" offset="0"/>
+   <stop stop-color="#00b7eb" offset="1"/>
   </linearGradient>
   <filter id="filter9708" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.010417764"/>
@@ -15,8 +15,8 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientTransform="translate(-.0076499 -.0030174)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">

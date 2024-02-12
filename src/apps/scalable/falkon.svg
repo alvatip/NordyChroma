@@ -4,36 +4,36 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="-1.6626" x2="13.999" y1="18.487" y2="2.4103" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#88c0d0" offset="0"/>
-   <stop stop-color="#ad85a5" offset="1"/>
+   <stop stop-color="#00b7eb" offset="0"/>
+   <stop stop-color="#613583" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2292" x1="39.204" x2="33.466" y1="6.3248" y2="8.5897" gradientTransform="matrix(1.6187 0 0 1.6187 -51.375 -4.9439)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2294" x1="36.121" x2="33.755" y1="6.0658" y2="5.6995" gradientTransform="matrix(1.6187 0 0 1.6187 -51.375 -4.9439)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ebcb8b" offset="0"/>
-   <stop stop-color="#d08770" offset="1"/>
+   <stop stop-color="#f6d32d" offset="0"/>
+   <stop stop-color="#ff7800" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2302" x1="36.312" x2="31.542" y1="7.6091" y2="10.141" gradientTransform="matrix(1.6187 0 0 1.6187 -51.375 -4.9439)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ebcb8b" offset="0"/>
-   <stop stop-color="#d08770" offset="1"/>
+   <stop stop-color="#f6d32d" offset="0"/>
+   <stop stop-color="#ff7800" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient3036" x1="39.988" x2="33.453" y1="8.0063" y2="10.61" gradientTransform="matrix(1.6187 0 0 1.6187 -51.375 -5.0447)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient3050" x1="39.736" x2="34.052" y1="10.148" y2="13.683" gradientTransform="matrix(1.6187 0 0 1.6187 -51.375 -5.1202)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient3052" x1="39.112" x2="31.047" y1="8.3697" y2="14.561" gradientTransform="matrix(1.6187 0 0 1.6187 -51.375 -5.0447)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ebcb8b" offset="0"/>
-   <stop stop-color="#d08770" offset="1"/>
+   <stop stop-color="#f6d32d" offset="0"/>
+   <stop stop-color="#ff7800" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient3066" x1="38.584" x2="37.792" y1="7.1956" y2="6.7009" gradientTransform="matrix(1.6187 0 0 1.6187 -51.375 -4.9439)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e3440" offset="0"/>
-   <stop stop-color="#4c566a" offset="1"/>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#5e5c64" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">

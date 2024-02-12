@@ -5,12 +5,12 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1803" x1="6.901" x2="22.392" y1="6.3363" y2="20.747" gradientTransform="translate(-.15642 -.010888)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b48ead" offset="0"/>
-   <stop stop-color="#4c566a" offset="1"/>
+   <stop stop-color="#9141ac" offset="0"/>
+   <stop stop-color="#5e5c64" offset="1"/>
   </linearGradient>
   <filter id="filter1871" x="-.15061" y="-.15061" width="1.3012" height="1.3012" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.78119546"/>
@@ -21,6 +21,6 @@
   <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
- <path d="m8.4744 2.2737a6.2242 6.2242 0 0 0-1.4846 0.18293 2.743 2.6873 0 0 1 1.1477 2.1854 2.743 2.6873 0 0 1-2.7434 2.6876 2.743 2.6873 0 0 1-2.4995-1.5849 6.2242 6.2242 0 0 0-0.64439 2.7533 6.2242 6.2242 0 0 0 6.2243 6.2243 6.2242 6.2242 0 0 0 6.2238-6.2243 6.2242 6.2242 0 0 0-6.2238-6.2243z" fill="#2e3440" filter="url(#filter1871)" opacity=".35408"/>
+ <path d="m8.4744 2.2737a6.2242 6.2242 0 0 0-1.4846 0.18293 2.743 2.6873 0 0 1 1.1477 2.1854 2.743 2.6873 0 0 1-2.7434 2.6876 2.743 2.6873 0 0 1-2.4995-1.5849 6.2242 6.2242 0 0 0-0.64439 2.7533 6.2242 6.2242 0 0 0 6.2243 6.2243 6.2242 6.2242 0 0 0 6.2238-6.2243 6.2242 6.2242 0 0 0-6.2238-6.2243z" fill="#000000" filter="url(#filter1871)" opacity=".35408"/>
  <path d="m8.4744 2.2737a6.2242 6.2242 0 0 0-1.4846 0.18293 2.743 2.6873 0 0 1 1.1477 2.1854 2.743 2.6873 0 0 1-2.7434 2.6876 2.743 2.6873 0 0 1-2.4995-1.5849 6.2242 6.2242 0 0 0-0.64439 2.7533 6.2242 6.2242 0 0 0 6.2243 6.2243 6.2242 6.2242 0 0 0 6.2238-6.2243 6.2242 6.2242 0 0 0-6.2238-6.2243z" fill="url(#linearGradient1803)"/>
 </svg>

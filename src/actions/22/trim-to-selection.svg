@@ -1,5 +1,5 @@
 <svg width="22" height="22" viewBox="0 0 5.8208 5.8208" xmlns="http://www.w3.org/2000/svg">
- <style type="text/css">.ColorScheme-Text{color:#2e3440;}</style>
+ <style type="text/css">.ColorScheme-Text{color:#000000;}</style>
  <g class="ColorScheme-Text" transform="scale(.26458)" fill="currentColor">
   <path d="m5 4v1h12v-1zm1 2v1h11v-1zm-1 12v1h11v-1z" opacity=".5"/>
   <path d="m6 10v1h10v-1zm0 2v1h10v-1zm0 2v1h10v-1z"/>

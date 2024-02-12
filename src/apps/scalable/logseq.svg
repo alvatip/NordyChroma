@@ -20,11 +20,11 @@
          y2="-12.564"
          gradientUnits="userSpaceOnUse">
          <stop
-            stop-color="#2e3440"
+            stop-color="#000000"
             offset="0"
          />
          <stop
-            stop-color="#8fbcbb"
+            stop-color="#37c8ab"
             offset="1"
          />
       </linearGradient>

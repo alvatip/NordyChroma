@@ -38,7 +38,7 @@
        inkscape:collect="always"
        id="linearGradient3154">
       <stop
-         style="stop-color:#bf616a;stop-opacity:1;"
+         style="stop-color:#e01b24;stop-opacity:1;"
          offset="0"
          id="stop3150" />
       <stop
@@ -78,15 +78,15 @@
        fx="8.4665003"
        fy="8.4665003">
       <stop
-         stop-color="#88c0d0"
+         stop-color="#00b7eb"
          offset="0"
          id="stop937"
-         style="stop-color:#d8dee9;stop-opacity:1" />
+         style="stop-color:#deddda;stop-opacity:1" />
       <stop
-         stop-color="#5e81ac"
+         stop-color="#1a5fb4"
          offset="1"
          id="stop939"
-         style="stop-color:#eceff4;stop-opacity:1" />
+         style="stop-color:#ffffff;stop-opacity:1" />
     </radialGradient>
     <linearGradient
        inkscape:collect="always"
@@ -156,13 +156,13 @@
    id="XMLID_42_"
    fill="#ffffff"
    d="m 88,46 c 23.1,0 42,18.8 42,42 0,23.2 -18.8,42 -42,42 C 64.8,130 46,111.2 46,88 46,64.8 64.9,46 88,46 m 0,-4 c -25.4,0 -46,20.6 -46,46 0,25.4 20.6,46 46,46 25.4,0 46,-20.6 46,-46 0,-25.4 -20.6,-46 -46,-46 z"
-   style="fill:#eceff4;fill-opacity:1" />
+   style="fill:#ffffff;fill-opacity:1" />
 
 	<polygon
    id="XMLID_274_"
    fill="#ffffff"
    points="72,111 111,87 72,65 "
-   style="fill:#eceff4;fill-opacity:1" />
+   style="fill:#ffffff;fill-opacity:1" />
 
 </g>
   </g>

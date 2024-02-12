@@ -4,16 +4,16 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient5403" x1="8.0815" x2="8.3413" y1="15.885" y2="-4.7732" gradientTransform="translate(-4.0158e-5 .05702)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d08770" offset="0"/>
-   <stop stop-color="#ebcb8b" offset="1"/>
+   <stop stop-color="#ff7800" offset="0"/>
+   <stop stop-color="#f6d32d" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4870" x1="9.0535" x2="9.0535" y1="4.494" y2="12.802" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4878" x1="8.0895" x2="8.0895" y1="4.4734" y2="12.832" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
   <filter id="filter4905" x="-.10246" y="-.051842" width="1.2049" height="1.1037" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.12690267"/>
@@ -25,7 +25,7 @@
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
  <g transform="matrix(1.2793 0 0 1.2793 -2.2799 -2.1356)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26458px">
-  <path d="m10.455 4.4876h-2.1173l-1.656 4.337h1.38l-1.0958 4.0896 3.9794-4.9906h-2.0304z" fill="#2e3440" filter="url(#filter4905)" opacity=".3" stroke="#2e3440"/>
+  <path d="m10.455 4.4876h-2.1173l-1.656 4.337h1.38l-1.0958 4.0896 3.9794-4.9906h-2.0304z" fill="#000000" filter="url(#filter4905)" opacity=".3" stroke="#000000"/>
   <path d="m10.455 4.4876h-2.1173l-1.656 4.337h1.38l-1.0958 4.0896 3.9794-4.9906h-2.0304z" fill="url(#linearGradient4878)" stroke="url(#linearGradient4870)"/>
  </g>
 </svg>

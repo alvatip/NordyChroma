@@ -4,21 +4,21 @@
    <feGaussianBlur stdDeviation="0.30691955"/>
   </filter>
   <radialGradient id="radialGradient24818" cx="3.6559" cy="4.2246" r="7.5405" gradientTransform="matrix(1.3991 1.352 -1.3571 1.4044 4.2441 -7.1185)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#bf616a" offset="0"/>
-   <stop stop-color="#bf616a" offset=".19754"/>
-   <stop stop-color="#d08770" offset=".27002"/>
-   <stop stop-color="#d08770" offset=".313"/>
-   <stop stop-color="#a3be8c" offset=".37789"/>
-   <stop stop-color="#a3be8c" offset=".56553"/>
-   <stop stop-color="#88c0d0" offset=".63653"/>
-   <stop stop-color="#88c0d0" offset=".69161"/>
-   <stop stop-color="#5e81ac" offset=".78892"/>
-   <stop stop-color="#b48ead" offset=".85778"/>
-   <stop stop-color="#b48ead" offset="1"/>
+   <stop stop-color="#e01b24" offset="0"/>
+   <stop stop-color="#e01b24" offset=".19754"/>
+   <stop stop-color="#ff7800" offset=".27002"/>
+   <stop stop-color="#ff7800" offset=".313"/>
+   <stop stop-color="#33d17a" offset=".37789"/>
+   <stop stop-color="#33d17a" offset=".56553"/>
+   <stop stop-color="#00b7eb" offset=".63653"/>
+   <stop stop-color="#00b7eb" offset=".69161"/>
+   <stop stop-color="#1a5fb4" offset=".78892"/>
+   <stop stop-color="#9141ac" offset=".85778"/>
+   <stop stop-color="#9141ac" offset="1"/>
   </radialGradient>
   <linearGradient id="linearGradient28836" x1="4.5466" x2="12.99" y1="4.1176" y2="12.422" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">

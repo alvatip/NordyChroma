@@ -1,6 +1,6 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <style type="text/css">.ColorScheme-Text {
-            color:#2e3440;
+            color:#000000;
         }</style>
  <g class="ColorScheme-Text" fill="currentColor">
   <path class="ColorScheme-Text" d="M3 4v1h1V4zm2 0v1h1V4zm2 0v1h1V4zm2 0v1h1V4zm2 0v1h2V4zM3 6v1h2V6zm3 0v1h1V6zm2 0v1h1V6zm2 0v1h3V6zM3 8v1h1V8zm2 0v1h6V8zm7 0v1h1V8z" fill="currentColor"/>

@@ -4,21 +4,21 @@
    <feGaussianBlur stdDeviation="0.14448374"/>
   </filter>
   <linearGradient id="linearGradient1340" x1=".92604" x2="16.074" y1="16.007" y2="1.1724" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b48ead" offset="0"/>
-   <stop stop-color="#81a1c1" offset=".53763"/>
-   <stop stop-color="#a3be8c" offset="1"/>
+   <stop stop-color="#9141ac" offset="0"/>
+   <stop stop-color="#3584e4" offset=".53763"/>
+   <stop stop-color="#33d17a" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2227" x1="-26.556" x2="-26.556" y1="2.8375" y2="9.6809" gradientUnits="userSpaceOnUse">
    <stop stop-color="#c0a0b9" offset="0"/>
-   <stop stop-color="#ad85a5" offset="1"/>
+   <stop stop-color="#613583" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2299" x1="-22.798" x2="-22.798" y1="5.9832" y2="12.849" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#81a1c1" offset="0"/>
-   <stop stop-color="#5e81ac" offset="1"/>
+   <stop stop-color="#3584e4" offset="0"/>
+   <stop stop-color="#1a5fb4" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2435" x1="-19.092" x2="-19.092" y1="9.6539" y2="16.596" gradientUnits="userSpaceOnUse">
    <stop stop-color="#aec69a" offset="0"/>
-   <stop stop-color="#97b67c" offset="1"/>
+   <stop stop-color="#26a269" offset="1"/>
   </linearGradient>
   <filter id="filter4097" x="-.061078" y="-.06738" width="1.1222" height="1.1348" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.32014606"/>

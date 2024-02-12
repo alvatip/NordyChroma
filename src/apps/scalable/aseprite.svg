@@ -5,16 +5,16 @@
    <feGaussianBlur stdDeviation="0.30691955"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e3440" offset="0"/>
-   <stop stop-color="#4c566a" offset="1"/>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#5e5c64" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1010" x1="8.2291" x2="8.2291" y1="2.7647" y2="14.063" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1183" x1="8.4308" x2="8.4308" y1="4.9779" y2="9.3848" gradientTransform="translate(.035756)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#4c566a" offset="0"/>
-   <stop stop-color="#2e3440" offset="1"/>
+   <stop stop-color="#5e5c64" offset="0"/>
+   <stop stop-color="#000000" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
@@ -24,6 +24,6 @@
   <rect x="2.4341" y="2.4341" width="12.065" height="12.065" rx="2.4" ry="2.4" fill="url(#linearGradient1010)" stroke-width=".98192"/>
  </g>
  <text x="26.956491" y="17.323977" font-family="'Abyssinica SIL'" font-size="2.8222px" font-weight="bold" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="26.956491" y="17.323977" font-family="'Abyssinica SIL'" font-weight="bold" stroke-width=".26458"/></text>
- <path d="m14.499 12.099c0 1.3296-1.0704 2.4-2.4 2.4h-7.265c-1.3296 0-2.4-1.0704-2.4-2.4v-1.0601c0 1.4346 3.0162 1.9494 6.0325 1.9528 3.0162 0.0034 6.0325-0.50454 6.0325-1.9572z" fill="#2e3440" opacity=".51133" stroke-linecap="round" stroke-linejoin="round" stroke-width=".98192"/>
+ <path d="m14.499 12.099c0 1.3296-1.0704 2.4-2.4 2.4h-7.265c-1.3296 0-2.4-1.0704-2.4-2.4v-1.0601c0 1.4346 3.0162 1.9494 6.0325 1.9528 3.0162 0.0034 6.0325-0.50454 6.0325-1.9572z" fill="#000000" opacity=".51133" stroke-linecap="round" stroke-linejoin="round" stroke-width=".98192"/>
  <path d="m6.0244 4.9779c-0.28244 0-0.51004 0.23051-0.51004 0.51675v3.3734c0 0.28624 0.2276 0.51675 0.51004 0.51675h0.27078c0.28244 0 0.51004-0.23051 0.51004-0.51675v-3.3734c0-0.28624-0.2276-0.51675-0.51004-0.51675zm4.6141 0c-0.28244 0-0.51004 0.23051-0.51004 0.51675v3.3734c0 0.28624 0.2276 0.51675 0.51004 0.51675h0.27078c0.28244 0 0.50952-0.23051 0.50952-0.51675v-3.3734c0-0.28624-0.22708-0.51675-0.50952-0.51675z" fill="url(#linearGradient1183)" stroke-width=".21777"/>
 </svg>

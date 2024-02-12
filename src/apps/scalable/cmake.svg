@@ -1,8 +1,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="a" x1="8.587" x2="8.587" y1="15.747" y2="1.097" gradientTransform="matrix(1.0178 0 0 1.0178 -.15083 -.14268)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e3440" offset="0"/>
-   <stop stop-color="#4c566a" offset="1"/>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#5e5c64" offset="1"/>
   </linearGradient>
   <filter id="filter1178-36" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
@@ -17,16 +17,16 @@
    <feGaussianBlur stdDeviation="0.45024187"/>
   </filter>
   <linearGradient id="e" x1="44" x2="24" y1="44" y2="4" gradientTransform="matrix(.26458 0 0 .26458 2.1225 1.6604)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#bf616a" offset="0"/>
-   <stop stop-color="#d08770" offset="1"/>
+   <stop stop-color="#e01b24" offset="0"/>
+   <stop stop-color="#ff7800" offset="1"/>
   </linearGradient>
   <linearGradient id="f" x1="24" x2="4" y1="4" y2="44" gradientTransform="matrix(.26458 0 0 .26458 2.1225 1.6604)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#88c0d0" offset="1"/>
+   <stop stop-color="#1a5fb4" offset="0"/>
+   <stop stop-color="#00b7eb" offset="1"/>
   </linearGradient>
   <linearGradient id="g" x1="44" x2="4" gradientTransform="matrix(.26458 0 0 .26458 2.1225 1.6604)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#8fbcbb" offset="0"/>
-   <stop stop-color="#a3be8c" offset="1"/>
+   <stop stop-color="#37c8ab" offset="0"/>
+   <stop stop-color="#33d17a" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="translate(-.00025546 -.11386)">
@@ -34,7 +34,7 @@
  </g>
  <rect x=".92602" y=".92602" width="15.081" height="15.081" rx="3.0536" ry="3.0535" fill="url(#a)" stroke-width="1.0178"/>
  <g fill-rule="evenodd">
-  <g fill="#2e3440">
+  <g fill="#000000">
    <path transform="matrix(.26458 0 0 .26458 2.1225 1.6604)" d="m24 4 2.938 33.3 17.06 6.703z" filter="url(#b)" opacity=".35"/>
    <path transform="matrix(.26458 0 0 .26458 2.1225 1.6604)" d="m24 4-20 40 21.795-19.668z" filter="url(#c)" opacity=".35"/>
    <path transform="matrix(.26458 0 0 .26458 2.1225 1.6604)" d="m16.13 33.05-12.13 10.943 39.996 4e-3zm-12.1 10.877-0.072 0.066h0.039z" filter="url(#d)" opacity=".35"/>

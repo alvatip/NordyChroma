@@ -7,8 +7,8 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <filter id="filter2512" x="-.13595" y="-.49173" width="1.4196" height="1.6478" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30356325"/>
@@ -22,13 +22,13 @@
   </g>
  </g>
  <text x="-49.806946" y="19.370577" font-family="sans-serif" font-size="2.8222px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-49.806946" y="19.370577" stroke-width=".26458"/></text>
- <g transform="translate(1.6688 -.18257)" fill="none" filter="url(#filter2512)" opacity=".37637" stroke="#2e3440" stroke-linecap="round" stroke-width=".93982">
+ <g transform="translate(1.6688 -.18257)" fill="none" filter="url(#filter2512)" opacity=".37637" stroke="#000000" stroke-linecap="round" stroke-width=".93982">
   <path d="m10.768 6.3951-4.4644 7.6775" marker-start="url(#Arrow2)"/>
   <path d="m6.3032 14.073-4.3511-2.4389"/>
   <path d="m7.0227 12.835-4.4716-2.4992"/>
   <path d="m7.7472 11.589-4.3912-2.3987"/>
  </g>
- <g transform="translate(1.4558 -.39556)" fill="none" stroke="#2e3440" stroke-linecap="round" stroke-width=".93982">
+ <g transform="translate(1.4558 -.39556)" fill="none" stroke="#000000" stroke-linecap="round" stroke-width=".93982">
   <path d="m10.768 6.3951-4.4644 7.6775" marker-start="url(#Arrow2)"/>
   <path d="m6.3032 14.073-4.3511-2.4389"/>
   <path d="m7.0227 12.835-4.4716-2.4992"/>

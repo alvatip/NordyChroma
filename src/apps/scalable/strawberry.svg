@@ -4,24 +4,24 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.3017" x2="8.355" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#bf616a" offset="0"/>
-   <stop stop-color="#d08770" offset="1"/>
+   <stop stop-color="#e01b24" offset="0"/>
+   <stop stop-color="#ff7800" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient9238" cx="50.937" cy="7.6645" r="15.274" gradientTransform="matrix(.024192 2.0473 -2.8079 .033178 73.014 -96.763)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#a3be8c" offset="0"/>
-   <stop stop-color="#97b67c" offset="1"/>
+   <stop stop-color="#33d17a" offset="0"/>
+   <stop stop-color="#26a269" offset="1"/>
   </radialGradient>
   <radialGradient id="radialGradient10176" cx="52.351" cy="8.8671" r="15.274" gradientTransform="matrix(1 0 0 1.0328 0 -.63248)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" stop-opacity=".5" offset="0"/>
-   <stop stop-color="#d8dee9" stop-opacity="0" offset="1"/>
+   <stop stop-color="#deddda" stop-opacity=".5" offset="0"/>
+   <stop stop-color="#deddda" stop-opacity="0" offset="1"/>
   </radialGradient>
   <radialGradient id="radialGradient10562" cx="7.0114" cy="6.1515" r="7.5405" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" stop-opacity=".5" offset="0"/>
-   <stop stop-color="#eceff4" stop-opacity="0" offset="1"/>
+   <stop stop-color="#ffffff" stop-opacity=".5" offset="0"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
   </radialGradient>
   <linearGradient id="linearGradient11310" x1="45.637" x2="44.101" y1="16.949" y2="17.612" gradientUnits="userSpaceOnUse">
    <stop stop-color="#f0d49e" offset="0"/>
-   <stop stop-color="#eac57b" offset="1"/>
+   <stop stop-color="#e5a50a" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
@@ -31,7 +31,7 @@
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
  <g id="g4297" transform="rotate(-21.662 15.947 96.143)">
-  <ellipse cx="45.039" cy="17.333" rx="1.312" ry=".57599" fill="#4c566a"/>
+  <ellipse cx="45.039" cy="17.333" rx="1.312" ry=".57599" fill="#5e5c64"/>
   <ellipse cx="45.039" cy="17.333" rx="1.0933" ry=".47999" fill="url(#linearGradient11310)"/>
  </g>
  <use transform="matrix(.98025 -.26913 .26913 .98025 -4.4653 .4532)" width="100%" height="100%" xlink:href="#g4297"/>

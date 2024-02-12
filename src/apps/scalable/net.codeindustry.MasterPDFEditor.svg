@@ -4,12 +4,12 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="1.1142" x2="15.724" y1="7.9631" y2="7.8536" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b54a55" offset="0"/>
-   <stop stop-color="#bf616a" offset="1"/>
+   <stop stop-color="#a51d2d" offset="0"/>
+   <stop stop-color="#e01b24" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient3523" x1="62.746" x2="53.838" y1="7.6521" y2="7.6046" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">

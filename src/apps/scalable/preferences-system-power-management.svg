@@ -4,17 +4,17 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient6479" x1="30.29" x2="31.529" y1="10.045" y2="12.645" gradientTransform="matrix(1.9356 0 0 1.8448 -51.187 -12.848)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e3440" offset="0"/>
-   <stop stop-color="#4c566a" offset="1"/>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#5e5c64" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient6743" x1="25.818" x2="34.428" y1="5.149" y2="13.925" gradientTransform="matrix(1.5637 0 0 1.4238 -39.721 -5.3257)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#8fbcbb" offset="0"/>
-   <stop stop-color="#a3be8c" offset=".68559"/>
-   <stop stop-color="#a3be8c" offset="1"/>
+   <stop stop-color="#37c8ab" offset="0"/>
+   <stop stop-color="#33d17a" offset=".68559"/>
+   <stop stop-color="#33d17a" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">

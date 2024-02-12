@@ -4,36 +4,36 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <linearGradient id="z" x1="82" x2="64" y1="225.61" y2="196" gradientTransform="matrix(.12394 0 0 .12394 25.517 -21.322)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eac57b" offset="0"/>
-   <stop stop-color="#ebcb8b" offset="1"/>
+   <stop stop-color="#e5a50a" offset="0"/>
+   <stop stop-color="#f6d32d" offset="1"/>
   </linearGradient>
   <linearGradient id="B" x1="82.001" x2="100" y1="246.39" y2="216" gradientTransform="matrix(.12394 0 0 .12394 25.517 -21.322)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b54a55" offset="0"/>
-   <stop stop-color="#d08770" offset="1"/>
+   <stop stop-color="#a51d2d" offset="0"/>
+   <stop stop-color="#ff7800" offset="1"/>
   </linearGradient>
   <linearGradient id="D" x1="64.499" x2="100" y1="257.07" y2="258" gradientTransform="matrix(.12394 0 0 .12394 25.517 -21.322)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b54a55" offset="0"/>
-   <stop stop-color="#bf616a" offset="1"/>
+   <stop stop-color="#a51d2d" offset="0"/>
+   <stop stop-color="#e01b24" offset="1"/>
   </linearGradient>
   <linearGradient id="y" x1="45.999" x2="64" y1="246.97" y2="276" gradientTransform="matrix(.12394 0 0 .12394 25.517 -21.322)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ad85a5" offset="0"/>
-   <stop stop-color="#b48ead" offset="1"/>
+   <stop stop-color="#613583" offset="0"/>
+   <stop stop-color="#9141ac" offset="1"/>
   </linearGradient>
   <linearGradient id="A" x1="45.999" x2="28" y1="225.61" y2="256.78" gradientTransform="matrix(.12394 0 0 .12394 25.517 -21.322)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#81a1c1" offset="1"/>
+   <stop stop-color="#1a5fb4" offset="0"/>
+   <stop stop-color="#3584e4" offset="1"/>
   </linearGradient>
   <linearGradient id="C" x1="63.999" x2="28" y1="215.22" y2="215.22" gradientTransform="matrix(.12394 0 0 .12394 25.517 -21.322)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#97b67c" offset="0"/>
-   <stop stop-color="#a3be8c" offset="1"/>
+   <stop stop-color="#26a269" offset="0"/>
+   <stop stop-color="#33d17a" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4143" x1="33.449" x2="33.449" y1="5.3531" y2="10.505" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
@@ -44,12 +44,12 @@
  <g transform="matrix(.8195 0 0 .8195 -18.937 1.9714)">
   <path d="m35.68 6.6412v2.5761l-2.231 1.2882-2.231-1.2882v-2.5761l2.231-1.2882z" fill="#3d3846" stroke-width=".12394"/>
   <g fill="none" stroke-width="4.462">
-   <path d="m28.987 5.3532v5.1523" stroke="#a3be8c"/>
-   <path d="m33.449 13.082-4.462-2.5762" stroke="#81a1c1"/>
-   <path d="m33.449 13.082 4.462-2.5764" stroke="#b48ead"/>
-   <path d="m37.911 5.3531v5.1521" stroke="#bf616a"/>
-   <path d="m37.911 5.3531-4.462-2.5762" stroke="#d08770"/>
-   <path d="m28.987 5.3532 4.462-2.5762" stroke="#ebcb8b"/>
+   <path d="m28.987 5.3532v5.1523" stroke="#33d17a"/>
+   <path d="m33.449 13.082-4.462-2.5762" stroke="#3584e4"/>
+   <path d="m33.449 13.082 4.462-2.5764" stroke="#9141ac"/>
+   <path d="m37.911 5.3531v5.1521" stroke="#e01b24"/>
+   <path d="m37.911 5.3531-4.462-2.5762" stroke="#ff7800"/>
+   <path d="m28.987 5.3532 4.462-2.5762" stroke="#f6d32d"/>
   </g>
   <g stroke-width=".12394">
    <path d="m33.449 15.313c1.2321 0 2.231-0.99899 2.231-2.231a2.231 2.231 0 0 0-0.95983-1.8302l-1.1475-0.67451-0.1237-0.07139a51.987 51.987 0 0 1-1.0577-0.61477 2.231 2.231 0 0 1-1.1733-1.9615v5.1521c0 1.2321 0.99887 2.231 2.231 2.231zm-2.2228-2.411c3e-3 -0.03508 0.0081-0.06966 0.01264-0.10436-5e-3 0.0347-0.0092 0.06941-0.01264 0.10436zm0.11626-0.54684c0.0032-0.0093 0.0056-0.01909 0.0089-0.02838l4.96e-4 -2.48e-4 -0.0094 0.02851z" fill="url(#y)"/>

@@ -4,15 +4,15 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.6644" x2="8.6644" y1="15.931" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#88c0d0" offset="1"/>
+   <stop stop-color="#1a5fb4" offset="0"/>
+   <stop stop-color="#00b7eb" offset="1"/>
   </linearGradient>
   <filter id="filter887" x="-.075" y="-.075" width="1.15" height="1.15" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.34725876"/>
   </filter>
   <linearGradient id="linearGradient933" x1="8.4269" x2="8.5039" y1="15.972" y2=".92628" gradientTransform="translate(.0076501 .030534)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
@@ -20,6 +20,6 @@
   <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
- <path d="m8.4665 2.9104c-3.0686 0-5.5561 2.4876-5.5561 5.5561 0 3.0686 2.4876 5.5561 5.5561 5.5561 3.0686 0 5.5561-2.4876 5.5561-5.5561 0-3.0686-2.4876-5.5561-5.5561-5.5561zm-2.1166 3.4395v1.0583h4.2332v-1.0583l2.9104 2.1166-2.9104 2.1166v-1.0583h-4.2332v1.0583l-2.9104-2.1166z" fill="#2e3440" filter="url(#filter887)" opacity=".318" stroke-width=".26458"/>
+ <path d="m8.4665 2.9104c-3.0686 0-5.5561 2.4876-5.5561 5.5561 0 3.0686 2.4876 5.5561 5.5561 5.5561 3.0686 0 5.5561-2.4876 5.5561-5.5561 0-3.0686-2.4876-5.5561-5.5561-5.5561zm-2.1166 3.4395v1.0583h4.2332v-1.0583l2.9104 2.1166-2.9104 2.1166v-1.0583h-4.2332v1.0583l-2.9104-2.1166z" fill="#000000" filter="url(#filter887)" opacity=".318" stroke-width=".26458"/>
  <path d="m8.4742 2.9409c-3.0686 0-5.5561 2.4876-5.5561 5.5561 0 3.0686 2.4876 5.5561 5.5561 5.5561 3.0686 0 5.5561-2.4876 5.5561-5.5561 0-3.0686-2.4876-5.5561-5.5561-5.5561zm-2.1166 3.4395v1.0583h4.2332v-1.0583l2.9104 2.1166-2.9104 2.1166v-1.0583h-4.2332v1.0583l-2.9104-2.1166z" fill="url(#linearGradient933)" stroke-width=".26458"/>
 </svg>

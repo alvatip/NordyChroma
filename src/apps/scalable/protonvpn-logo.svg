@@ -6,17 +6,17 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient2367" x1="161.21" x2="161.29" y1="36.005" y2="24.836" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#88c0d0" offset="0"/>
-   <stop stop-color="#5e81ac" offset="1"/>
+   <stop stop-color="#00b7eb" offset="0"/>
+   <stop stop-color="#1a5fb4" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2470" x1="154.09" x2="167.49" y1="20.386" y2="32.143" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#1a5fb4" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient2476" cx="53.748" cy="64.421" r="28.5" gradientTransform="matrix(1.8033 -1.7344 2.2089 2.2966 -170.64 19.05)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#8fbcbb" offset="0"/>
-   <stop stop-color="#2e3440" offset=".57932"/>
-   <stop stop-color="#2e3440" offset="1"/>
+   <stop stop-color="#37c8ab" offset="0"/>
+   <stop stop-color="#000000" offset=".57932"/>
+   <stop stop-color="#000000" offset="1"/>
   </radialGradient>
  </defs>
  <g transform="matrix(2.1244 0 0 2.1244 -314.57 -28.706)">

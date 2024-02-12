@@ -25,8 +25,8 @@
   <radialGradient id="radialGradient6317" cx="13.758" cy="15.346" r=".79373" gradientTransform="matrix(0 1.6667 -1.3333 0 34.219 -7.5846)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6067"/>
   <radialGradient id="radialGradient6311" cx="3.1749" cy="15.346" r=".79373" gradientTransform="matrix(-1.3333 0 0 -1.6667 7.4082 40.921)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6067"/>
   <linearGradient id="linearGradient4553" x1="45" x2="11" y1="9" y2="60" gradientTransform="matrix(.26458 0 0 .26458 .046771 -.26458)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#e5e9f0" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#f6f5f4" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient6129" cx="40" cy="12" r="8" gradientTransform="matrix(.39687 0 0 -.52916 -3.6573 10.583)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6067"/>
   <radialGradient id="radialGradient6017" cx="10.583" cy="4.2333" r="2.1166" gradientTransform="matrix(-2 3.1236e-7 -3.1236e-7 -2 31.796 12.7)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6067"/>
@@ -39,8 +39,8 @@
   <linearGradient id="linearGradient6123" x1="10.583" x2="8.7237" y1="3.0426" y2="3.0426" gradientTransform="matrix(1 0 0 .66667 -14.816 9.3952)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6067"/>
   <radialGradient id="radialGradient6131" cx="40" cy="12" r="8" gradientTransform="matrix(.3793 0 0 -.23243 -2.9547 7.0224)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6067"/>
   <linearGradient id="linearGradient4561" x1="40" x2="46" y1="17" y2="11" gradientTransform="matrix(.26458 0 0 .26458 .046771 -.26458)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#e5e9f0" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#f6f5f4" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="matrix(3.7796 0 0 3.7796 -.19787 3.4078e-7)">
@@ -82,7 +82,7 @@
   <path d="m12.217 4.2332v2.9104h2.3812v-1.852l-0.11627-0.4656c-0.085847-0.19266-0.2205-0.40033-0.41289-0.59272z" fill="url(#radialGradient6131)" opacity=".2"/>
   <path d="m10.101 0.37542v3.8561c0 0.29315 0.23601 0.52917 0.52917 0.52917h3.822c-0.08627-0.1743-0.21103-0.35779-0.3824-0.52917l-3.4396-3.4396c-0.16657-0.21078-0.35183-0.33839-0.52917-0.41652z" fill="url(#linearGradient4561)"/>
  </g>
- <path d="m19 21h6v32h-6z" color="#bebebe" fill="#a3be8c" opacity=".75" overflow="visible"/>
- <path d="m29 37h6v16h-6z" fill="#bf616a" opacity=".75" overflow="visible"/>
- <path d="m39 29h6v24h-6z" color="#bebebe" fill="#5e81ac" opacity=".75" overflow="visible"/>
+ <path d="m19 21h6v32h-6z" color="#bebebe" fill="#33d17a" opacity=".75" overflow="visible"/>
+ <path d="m29 37h6v16h-6z" fill="#e01b24" opacity=".75" overflow="visible"/>
+ <path d="m39 29h6v24h-6z" color="#bebebe" fill="#1a5fb4" opacity=".75" overflow="visible"/>
 </svg>

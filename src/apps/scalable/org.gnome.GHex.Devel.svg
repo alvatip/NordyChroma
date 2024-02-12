@@ -41,7 +41,7 @@
        inkscape:collect="always"
        id="linearGradient2397">
       <stop
-         style="stop-color:#a3be8c;stop-opacity:1;"
+         style="stop-color:#33d17a;stop-opacity:1;"
          offset="0"
          id="stop2393" />
       <stop
@@ -57,11 +57,11 @@
        y2=".79375"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#2e3440"
+         stop-color="#000000"
          offset="0"
          id="stop1400" />
       <stop
-         stop-color="#4c566a"
+         stop-color="#5e5c64"
          offset="1"
          id="stop1402" />
     </linearGradient>
@@ -107,11 +107,11 @@
        gradientTransform="matrix(5.3417,-2.6341,2.8166,5.728,-49.812,-4.6569)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#ebcb8b"
+         stop-color="#f6d32d"
          offset="0"
          id="stop31" />
       <stop
-         stop-color="#eac57b"
+         stop-color="#e5a50a"
          offset="1"
          id="stop33" />
     </linearGradient>
@@ -125,11 +125,11 @@
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient1590">
       <stop
-         stop-color="#4c566a"
+         stop-color="#5e5c64"
          offset="0"
          id="stop36" />
       <stop
-         stop-color="#2e3440"
+         stop-color="#000000"
          offset="1"
          id="stop38" />
     </linearGradient>
@@ -165,7 +165,7 @@
        height="15.346"
        rx="3.0526"
        ry="3.0526"
-       fill="#2e3440"
+       fill="#000000"
        filter="url(#filter1178-3)"
        opacity=".15"
        stroke-linecap="round"

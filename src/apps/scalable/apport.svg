@@ -4,8 +4,8 @@
    <feGaussianBlur stdDeviation="0.945"/>
   </filter>
   <radialGradient id="radialGradient1379" cx="31.972" cy="31.989" r="28.5" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ebcb8b" offset="0"/>
-   <stop stop-color="#d08770" offset="1"/>
+   <stop stop-color="#f6d32d" offset="0"/>
+   <stop stop-color="#ff7800" offset="1"/>
   </radialGradient>
   <filter id="filter1178-3" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>

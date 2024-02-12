@@ -4,13 +4,13 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.6644" x2="8.6644" y1="15.931" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#88c0d0" offset="1"/>
+   <stop stop-color="#1a5fb4" offset="0"/>
+   <stop stop-color="#00b7eb" offset="1"/>
   </linearGradient>
   <style>.fil1{fill:#fff;fill-rule:nonzero}</style>
   <linearGradient id="linearGradient1560" x1="7.7358" x2="7.7358" y1="10.953" y2="5.9299" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" stop-opacity=".85" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" stop-opacity=".85" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
  </defs>
  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>

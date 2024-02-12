@@ -1,6 +1,6 @@
 <svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  <style type="text/css">.ColorScheme-Text {
-        color:#2e3440;
+        color:#000000;
       }</style>
  <g class="ColorScheme-Text" fill="currentColor">
   <path d="m6 14c0 2.77 2.23 5 5 5s5-2.23 5-5z" fill-rule="evenodd" opacity=".66"/>

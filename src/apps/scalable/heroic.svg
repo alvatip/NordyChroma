@@ -45,15 +45,15 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0000197,0,0,1.0000197,-0.01215,-0.00603)">
       <stop
-         stop-color="#5e81ac"
+         stop-color="#1a5fb4"
          offset="0"
          id="stop63141"
-         style="stop-color:#8fbcbb;stop-opacity:1;" />
+         style="stop-color:#37c8ab;stop-opacity:1;" />
       <stop
-         stop-color="#88c0d0"
+         stop-color="#00b7eb"
          offset="1"
          id="stop63143"
-         style="stop-color:#5e81ac;stop-opacity:1;" />
+         style="stop-color:#1a5fb4;stop-opacity:1;" />
     </linearGradient>
     <filter
        id="filter1178-61"
@@ -74,11 +74,11 @@
        y2="2.4754"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#2e3440"
+         stop-color="#000000"
          offset="0"
          id="stop38257" />
       <stop
-         stop-color="#5e81ac"
+         stop-color="#1a5fb4"
          offset="1"
          id="stop38259" />
     </linearGradient>

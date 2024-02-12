@@ -10,7 +10,7 @@
  <clipPath id="clip1">
   <rect width="64" height="64"/>
  </clipPath>
- <g id="surface5" clip-path="url(#clip1)" fill="#eceff4" opacity=".5">
+ <g id="surface5" clip-path="url(#clip1)" fill="#ffffff" opacity=".5">
   <path d="m41.605 33.465c0.066406-0.46875 0.10156-0.94531 0.10156-1.4336v-16.391c0-5.4219-4.3438-9.8281-9.7031-9.8281-4.8945 0-8.9453 3.6914-9.5977 8.4727"/>
   <path d="m38.34 39.465c0.13672-0.12109 0.26953-0.24219 0.39844-0.37109"/>
   <path d="m22.316 31.906v0.125c0 5.4219 4.3438 9.8125 9.6875 9.8125 0.078125 0 0.15234 0 0.23047-0.003906"/>
@@ -21,5 +21,5 @@
   <path d="m45.227 46.344c0.13281-0.12109 0.26172-0.24609 0.38672-0.375"/>
   <path d="m8.1055 13.469 4.625-4.625 43.422 43.422-4.625 4.625z"/>
  </g>
- <use width="100%" height="100%" fill="#eceff4" mask="url(#mask0)" xlink:href="#surface5"/>
+ <use width="100%" height="100%" fill="#ffffff" mask="url(#mask0)" xlink:href="#surface5"/>
 </svg>

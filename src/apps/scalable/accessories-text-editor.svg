@@ -4,8 +4,8 @@
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
+   <stop stop-color="#deddda" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
@@ -14,7 +14,7 @@
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
  <g fill="none" stroke-linejoin="round" stroke-width=".052916">
-  <g stroke="#2e3440">
+  <g stroke="#000000">
    <path d="m0.92618 3.8965h15.081"/>
    <path d="m0.92618 5.484h15.081"/>
    <path d="m0.92618 7.0715h15.081"/>
@@ -24,6 +24,6 @@
    <path d="m0.92618 13.421h15.058"/>
    <path d="m0.92618 13.421h15.053"/>
   </g>
-  <path d="m3.8358 0.99512v15.081" stroke="#bf616a"/>
+  <path d="m3.8358 0.99512v15.081" stroke="#e01b24"/>
  </g>
 </svg>

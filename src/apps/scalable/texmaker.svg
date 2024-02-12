@@ -4,27 +4,27 @@
    <feGaussianBlur stdDeviation="0.30691955"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e3440" offset="0"/>
-   <stop stop-color="#4c566a" offset="1"/>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#5e5c64" offset="1"/>
   </linearGradient>
   <filter id="filter3977-9" x="-.018783" y="-.03323" width="1.0376" height="1.0665" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="1.6009017"/>
   </filter>
   <linearGradient id="linearGradient1424-9" x1="30.251" x2="30.458" y1="-6.3156" y2="2.5274" gradientTransform="matrix(.35824 0 0 .35824 2.4501 14.19)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient8384" x1="8.512" x2="8.2779" y1="2.8059" y2="7.8702" gradientTransform="matrix(1.102 0 0 1.102 -.39665 -.27112)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient8526" x1="8.4853" x2="8.468" y1="8.983" y2="10.655" gradientTransform="matrix(1.0833 0 0 1.0833 -.67264 -.32809)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient8656" x1="323.31" x2="322.06" y1="125.56" y2="235.4" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">

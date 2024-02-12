@@ -4,16 +4,16 @@
    <feGaussianBlur stdDeviation="0.30691955"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="13.204" x2="2.405" y1="14.489" y2="2.8151" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e3440" offset="0"/>
-   <stop stop-color="#5e81ac" offset="1"/>
+   <stop stop-color="#000000" offset="0"/>
+   <stop stop-color="#1a5fb4" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1846" x1="6.3794" x2="3.302" y1="5.6677" y2="8.5085" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ebcb8b" offset="0"/>
-   <stop stop-color="#eac57b" offset="1"/>
+   <stop stop-color="#f6d32d" offset="0"/>
+   <stop stop-color="#e5a50a" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1988" x1="13.211" x2="8.7245" y1="8.5589" y2="14.014" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#deddda" offset="1"/>
   </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
@@ -23,7 +23,7 @@
  </g>
  <path d="m5.0201 9.5745-0.65824-1.9747-1.9747-0.65824 1.9747-0.65824 0.65824-1.9747 0.65824 1.9747 1.9747 0.65824-1.9747 0.65824z" fill="url(#linearGradient1846)" stroke-width="1.3165"/>
  <path d="m11.514 7.4425c0.42124 0.51342 0.68456 1.1717 0.68456 1.8826 0 1.6456-1.3296 2.9752-2.9752 2.9752-0.71089 0-1.3691-0.26332-1.8826-0.68456a3.4715 3.4715 0 0 0 3.3702 2.6593c1.9089 0 3.4623-1.5534 3.4623-3.4623 0-1.6324-1.1322-3.0147-2.6593-3.3702z" fill="url(#linearGradient1988)" stroke-width="1.3165"/>
- <g fill="#eceff4">
+ <g fill="#ffffff">
   <path d="m4.7151 11.897a0.54883 0.54883 0 0 1-0.54883 0.54883 0.54883 0.54883 0 0 1-0.54883-0.54883 0.54883 0.54883 0 0 1 0.54883-0.54883 0.54883 0.54883 0 0 1 0.54883 0.54883z" stroke-width="1.0977"/>
   <path d="m10.071 7.3319a0.54445 0.54445 0 0 1-0.54445 0.54445 0.54445 0.54445 0 0 1-0.54445-0.54445 0.54445 0.54445 0 0 1 0.54445-0.54445 0.54445 0.54445 0 0 1 0.54445 0.54445z" stroke-width="1.0889"/>
   <path d="m13.985 3.3587a0.54882 0.54882 0 0 1-0.54882 0.54882 0.54882 0.54882 0 0 1-0.54882-0.54882 0.54882 0.54882 0 0 1 0.54882-0.54882 0.54882 0.54882 0 0 1 0.54882 0.54882z" stroke-width="1.0976"/>
