@@ -1,4 +1,4 @@
- NordyCrhoma Icon Theme
+ NordyChroma Icon Theme
 ======
 
 Readme to come
