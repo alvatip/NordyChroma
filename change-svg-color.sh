@@ -11,6 +11,8 @@ substitute_color (){
 	sed -i "s/$1/$2/g" /home/alvatip/Documents/GitHub/Nordzy-plain/src/actions/{16,22,24,32,symbolic}/*
 	sed -i "s/$1/$2/g" /home/alvatip/Documents/GitHub/Nordzy-plain/src/status/32/*
 	sed -i "s/$1/$2/g" /home/alvatip/Documents/GitHub/Nordzy-plain/src/apps/scalable/*
+	sed -i "s/$1/$2/g" /home/alvatip/Documents/GitHub/Nordzy-plain/colors/{color-cyan,color-green,color-orange,color-pink,color-purple,color-red,color-turquoise,color-yellow}/*
+	sed -i "s/$1/$2/g" /home/alvatip/Documents/GitHub/Nordzy-plain/src/places/scalable/*
 }
 
 #dark1
